@@ -1,0 +1,19 @@
+https://jupiter.cloud.planittesting.com/#/
+Few of the test cases:
+
+1.User tries to click on start shopping
+2.User tries to buy toy
+3.User tries to navigate back to home screen
+4.User tries to click on Menu icon
+5.User tries to fill contact details and make submit 
+6.User tries to submit contact details without email address
+7.use tries to submit contact details with empty fields
+8.User tries login with correct user name and correct password 
+9.User tries to login with incorrect username and correct password
+10.User tries to login correct username and incorrect password
+11.user tries to login with incorrect username and incorrect password
+12.User tries to click on login cancel button
+13.User tries to click on cart button
+14.User tries to enter 1 in quantity field  and click on  checkout
+15.User tries to enter empty spaces in quantitiy field and click on checkout
+16.User tries to click on empty cart.
